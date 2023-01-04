@@ -4,7 +4,7 @@ Auto Leave Telegram Groups [ TeleDex ]
 # Telegram-auto-leave-groups
 If you are in allot of groups or channel and you would like to leave them at once use this
 
-USER GUIDE👣
+User Manual
 1) Insert your telegram phone number in phone numbers foloder
 2) Clone repository(installation)
 3) leave the groups
