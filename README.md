@@ -23,7 +23,7 @@ pip install telethon
 
 [x] python TeleDex.py
 
-            Secret Code : _py0x11_
+            Secret Code : py0x11
 
 CONGRATULATIONS 🎉🎉👏 YOU DID IT
 
