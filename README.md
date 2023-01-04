@@ -14,16 +14,16 @@ INSTALLATION:
 pip install pyaes
 pip install telethon
 
-git clone https://github.com/LucidManiaczz/TeleDex-Telegram-Auto-Leave-Groups.git
+[x] git clone https://github.com/LucidManiaczz/TeleDex-Telegram-Auto-Leave-Groups.git
 
-cd TeleDex-Telegram-Auto-Leave-Groups
+[x] cd TeleDex-Telegram-Auto-Leave-Groups
 
-notepad Phone.txt
+[x] notepad Phone.txt
 (input your number)
 
-python TeleDex.py
+[x] python TeleDex.py
 
-Secret Code : _py0x11_
+            Secret Code : _py0x11_
 
 CONGRATULATIONS 🎉🎉👏 YOU DID IT
 
