@@ -20,7 +20,8 @@ notepad Phone.txt
 (input your number)
 python TeleDex.py
 
-Secret Code : _py0x11_
+Secret Code : _py0x11
+
 CONGRATULATIONS 🎉🎉👏 YOU DID IT
 
 If you have any questions or you need help
