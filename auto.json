@@ -1,0 +1,18 @@
+[
+    {
+        "wd": "on",
+        "leave": "on",
+        "message": "on",
+        "join": "on",
+        "visit": "on",
+        "time_inverval": "4"
+    },
+    {
+        "group_entity": [
+            "@Clickers01"
+        ],
+        "chat": [
+            "How are you?",
+        ]
+    }
+]
