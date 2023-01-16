@@ -30,9 +30,6 @@ CONGRATULATIONS 🎉🎉👏 YOU DID IT
 If you have any questions or you need help
 Feel free to contact me
 
-Follow me on Instagram @Thee_mastercard
-Text me on WhatsApp and telegram on +254794325564
-
-
+Contact at Telegram : @py0x11 or @lucifersamiel
 
  
